@@ -21,7 +21,6 @@ organizations:
 bio: 早稲田大学学生
 
 interests:
-- Numerical Analysis
 - Competitive Programming
 
 # Social/Academic Networking
@@ -54,4 +53,4 @@ user_groups:
 - Visitors
 ---
 
-暇なので色々作ってます。面白いものができたら公開します。
+競技プログラミング好きです。
