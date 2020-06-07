@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Third year student
+role: Fourth year student
 
 # Organizations/Affiliations
 organizations:
