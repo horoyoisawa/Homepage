@@ -47,7 +47,7 @@ social:
   icon_pack: fab
   link: https://medium.com/@imsviolet0108
 - icon: sticky-note
-  icon_pack: fab
+  icon_pack: far
   link: https://note.com/masaru_ishikawa
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
