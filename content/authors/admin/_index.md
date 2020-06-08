@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 早稲田大学学生
+bio: Student at Waseda University
 
 interests:
 - Competitive Programming
@@ -46,6 +46,9 @@ social:
 - icon: medium
   icon_pack: fab
   link: https://medium.com/@imsviolet0108
+- icon: sticky-note
+  icon_pack: fab
+  link: https://note.com/masaru_ishikawa
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-競技プログラミング好きです。
+Hoge Huga
