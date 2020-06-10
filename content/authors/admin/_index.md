@@ -55,9 +55,6 @@ social:
 - icon: wordpress
   icon_pack: fab
   link: https://www.wassyoi-deutsch.com/
-- icon: stripe-s
-  icon_pack: fab
-  link: https://scrapbox.io/imsviolet0108-87408228/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
