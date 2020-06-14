@@ -54,7 +54,7 @@ social:
   link: https://horoyoisawa.hateblo.jp/
 - icon: wordpress
   icon_pack: fab
-  link: https://www.wassyoi-deutsch.com/
+  link: https://en.gravatar.com/masa53499491
 - icon: trash-alt
   icon_pack: fas
   link: https://scrapbox.io/imsviolet0108-87408228/
