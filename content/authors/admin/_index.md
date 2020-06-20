@@ -40,24 +40,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/horoyoisawa/
-- icon: blogger
-  icon_pack: fab
-  link: https://horoyoisawa.blogspot.com/
-- icon: medium
-  icon_pack: fab
-  link: https://medium.com/@imsviolet0108
-- icon: sticky-note
-  icon_pack: far
-  link: https://note.com/masaru_ishikawa
-- icon: pen-nib
-  icon_pack: fas
-  link: https://horoyoisawa.hateblo.jp/
-- icon: wordpress
-  icon_pack: fab
-  link: https://en.gravatar.com/masa53499491
-- icon: trash-alt
-  icon_pack: fas
-  link: https://scrapbox.io/imsviolet0108-87408228/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
