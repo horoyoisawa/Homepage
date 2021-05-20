@@ -15,12 +15,16 @@ role: Fourth year student
 # Organizations/Affiliations
 organizations:
 - name: Waseda University
-  url: ""
+  url: "https://www.waseda.jp/fpse/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Student at Waseda University
 
 interests:
+- Statistics
+- Econometrics
+  - Discrete choice
+  - Time series analysis
 - Competitive Programming
 
 # Social/Academic Networking
@@ -56,4 +60,5 @@ user_groups:
 - Visitors
 ---
 
-Hoge Huga
+早稲田大学政治経済学部経済学科４年生.2021年夏卒業予定。経済学、特に計量経済学（離散選択、時系列分析）を勉強しています。R
+使えます。
