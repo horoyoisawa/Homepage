@@ -23,7 +23,6 @@ bio: Student at Waseda University
 interests:
 - Statistics
 - Econometrics
-  
   - Time series analysis
   - Discrete Choice and Classification
 - Competitive Programming
@@ -62,4 +61,4 @@ user_groups:
 ---
 
 早稲田大学政治経済学部経済学科４年生. 2021年夏卒業予定. 経済学、特に計量経済学（離散選択、時系列分析）を勉強しています. R
-使えます。
+使えます.
