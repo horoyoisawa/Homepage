@@ -23,6 +23,7 @@ bio: Student at Waseda University
 interests:
 - Statistics
 - Econometrics
+
   - Discrete choice
   - Time series analysis
 - Competitive Programming
